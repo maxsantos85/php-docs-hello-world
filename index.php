@@ -1,3 +1,3 @@
 <?php
 
-echo ("Lula Livre! <br />");
+echo "Lula Livre!";
